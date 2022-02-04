@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InsetsChat</string>
+    <string name="toolbar_title">IME Animations</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_phone_call">Phone call</string>
+    <string name="action_video_call">Video call</string>
+
+    <string name="message_from">To you</string>
+    <string name="message_to">To me</string>
+    <string name="message_hint">Type a message…</string>
+    <string name="icon">icon</string>
+    <string name="input_form">input form</string>
+    <string name="send">Send</string>
+
+</resources>
